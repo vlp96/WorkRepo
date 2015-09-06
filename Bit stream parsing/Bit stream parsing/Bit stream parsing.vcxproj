@@ -11,7 +11,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{6244F0F7-7C4C-4BBF-A6C6-1565EF537746}</ProjectGuid>
+    <ProjectGuid>{C8164888-721B-4AED-9DB1-550CF7D9A009}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>Bitstreamparsing</RootNamespace>
   </PropertyGroup>
